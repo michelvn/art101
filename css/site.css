@@ -1,32 +1,40 @@
-#my-portrait {
-    width: 500px;
-}
-
 html {
   height: 100%;
-  background: linear-gradient(45deg, purple, blue);
+  background: linear-gradient(-135deg, #7F69DD, #35319B);
   background-size: cover;
   font: 16px Helvetica;
-  letter-spacing: -0.3px;
+  color: white;
+  letter-spacing: -0.1px;
 }
 
 #wrapper {
   text-align: center;
+  padding-top: 75px;
 }
 
 #center-box {
-  border: 2px solid purple;
+  border: 3px solid #F8D9FC;
   padding: 20px;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   display: inline-block;
   text-align: left;
+  width: 750px;
 
-}
-
-div {
-  align-content: center;
 }
 
 h1 {
   font: italic 28px Helvetica;
+}
+
+a {
+  color: white;
+}
+
+#return-link {
+  text-align: right;
+  font: italic;
+}
+
+#my-portrait {
+    width: 500px;
 }

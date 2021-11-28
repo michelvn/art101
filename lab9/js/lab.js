@@ -1,5 +1,5 @@
 // Michel Nguyen
-// ART 101, Lab 5: Data Types and Variables
+// ART 101, Lab 9: JavaScript Events and Forms
 // Wes Modes, fall 2021
 
 outputEl = document.getElementById("output");
